@@ -1,0 +1,8 @@
+header, article, aside, footer, section{
+    border: 2px solid rgb(188, 188, 236);
+    padding: 10px;
+   
+}
+.row{
+    margin: auto;
+}
